@@ -1,7 +1,22 @@
 # Largest Amogst Three
 
-- Display the largest number amongst 3 different numbers
+- Displays the largest number amongst 3 different numbers. Testing included, done with jest
 
-## Required
+## Pre-requirement
 
-- None
+- node.js & npm
+
+## Dependencies
+
+- jest
+- @babel/core
+- @babel/preset-env
+- regenerator-runtime
+
+## Installation
+
+>> npm install
+
+## Run tests
+
+>> npm test

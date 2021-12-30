@@ -1,0 +1,26 @@
+{
+  "name": "largest-amongst-three-js",
+  "version": "1.0.0",
+  "description": "- Displays the largest number amongst 3 different numbers. Testing included, done with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandez16/Largest-Amongst-Three-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandez16/Largest-Amongst-Three-JS/issues"
+  },
+  "homepage": "https://github.com/fernandez16/Largest-Amongst-Three-JS#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.5",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
